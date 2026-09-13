@@ -1,0 +1,6 @@
+{
+  "name": "TCSHS Supreme Secondary Learner Government",
+  "description": "Official digital platform of the TCSHS Supreme Secondary Learner Government (SSLG) for SY 2026–2027, showcasing officers, projects, transparency reports, student voice forum, and administrative portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
